@@ -1,2 +1,2 @@
 # LinkedList-Creation
-Create a link list and display it in C+++
+Create a link list and display it in C
